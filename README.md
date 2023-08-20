@@ -1,4 +1,4 @@
-### Live Demo: `https://vercel.com/ggupta721/video-player/HbbWAJxCgsq1M7LADisnXB3SyJnY`
+### Live Demo: https://vercel.com/ggupta721/video-player/HbbWAJxCgsq1M7LADisnXB3SyJnY
 
 # Getting Started with Create React App
 
